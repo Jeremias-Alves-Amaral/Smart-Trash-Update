@@ -43,12 +43,16 @@ html {
 
 .clr1 {
   color: #54c67a;
-  font-family: 'lemon', sans-serif;
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .clr2 {
   color: #031c28;
-  font-family: 'lemon', sans-serif;
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body::-webkit-scrollbar {
@@ -58,7 +62,9 @@ body::-webkit-scrollbar {
 .w3-tag {
   background-color: #54c67a;
   color: #031c28;
-  font-family: 'lemon', sans-serif;
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
   margin-top: 25px;
   margin-bottom: 0px;
 }
@@ -74,7 +80,9 @@ body::-webkit-scrollbar {
 }
 
 .text-header {
-  font-family: 'lemon', sans-serif;
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 p {
@@ -246,7 +254,10 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'lemon';
+
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
   color: #000000;
   width: 50%;
 }
@@ -261,7 +272,9 @@ p {
   align-items: center;
   background-color: #54c67a;
   color: #031c28;
-  font-family: 'lemon', sans-serif;
+  font-family: "Lemon", serif;
+  font-weight: 400;
+  font-style: normal;
   margin-top: 25px;
   margin-bottom: 20px;
   display: flex;
